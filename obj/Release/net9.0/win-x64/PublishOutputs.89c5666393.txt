@@ -1,0 +1,14 @@
+/mnt/d/Stock-Tracking-App/.publish/StockApp.exe
+/mnt/d/Stock-Tracking-App/.publish/invalid.mp3
+/mnt/d/Stock-Tracking-App/.publish/wallet.txt
+/mnt/d/Stock-Tracking-App/.publish/StockApp.dll
+/mnt/d/Stock-Tracking-App/.publish/StockApp.deps.json
+/mnt/d/Stock-Tracking-App/.publish/StockApp.runtimeconfig.json
+/mnt/d/Stock-Tracking-App/.publish/StockApp.pdb
+/mnt/d/Stock-Tracking-App/.publish/CsvHelper.dll
+/mnt/d/Stock-Tracking-App/.publish/Microsoft.Data.Sqlite.dll
+/mnt/d/Stock-Tracking-App/.publish/SplashKitSDK.dll
+/mnt/d/Stock-Tracking-App/.publish/SQLitePCLRaw.batteries_v2.dll
+/mnt/d/Stock-Tracking-App/.publish/SQLitePCLRaw.core.dll
+/mnt/d/Stock-Tracking-App/.publish/SQLitePCLRaw.provider.e_sqlite3.dll
+/mnt/d/Stock-Tracking-App/.publish/e_sqlite3.dll

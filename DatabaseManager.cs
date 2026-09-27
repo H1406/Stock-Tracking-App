@@ -5,7 +5,7 @@ public class DatabaseManager
 {
     private List<StockItem> _stocks = new List<StockItem>();
     private StockFetcher _fetcher = new StockFetcher();
-    private const string DatabaseFile = "Data/StockData.db";
+    private static readonly string DatabaseFile = AppPaths.DatabaseFile;
     public DatabaseManager()
     {
         using(var connection = new SqliteConnection($"Data Source={DatabaseFile}")){

@@ -10,7 +10,7 @@ public class Wallet: Item
     private List<StockItem> _stocks = new List<StockItem>();
     private double total = 0;
     private double cash = 0;
-    private const string filepath = "wallet.txt";
+    private static readonly string filepath = AppPaths.WalletFile;
     public Wallet(float x,float y):base(x,y){
         Load();
     }

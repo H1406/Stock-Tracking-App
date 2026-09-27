@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs"
+     xmlns:ui="http://wixtoolset.org/schemas/v4/wxs/ui">
+  <?ifndef Version ?>
+    <?define Version = "1.0.0.0" ?>
+  <?endif ?>
+  <Package
+      Name="Stock Tracking App"
+      Manufacturer="StockApp"
+      Version="$(var.Version)"
+      UpgradeCode="{D7EF8B81-8B70-4C2D-9B9A-1C3CFBF3A1D0}"
+      Scope="perMachine"
+      Compressed="yes">
+
+    <MediaTemplate CompressionLevel="high" EmbedCab="yes" />
+
+    <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+
+    <Icon Id="StockAppIcon" SourceFile="publish\StockApp.exe" />
+    <Property Id="ARPPRODUCTICON" Value="StockAppIcon" />
+
+    <WixVariable Id="WixUILicenseRtf" Value="Eula.rtf" />
+
+    <Feature Id="MainFeature" Title="Stock Tracking App" Level="1">
+      <ComponentGroupRef Id="ProductComponents" />
+      <ComponentRef Id="StockAppExeComponent" />
+    </Feature>
+
+    <ui:WixUI Id="WixUI_InstallDir" InstallDirectory="INSTALLFOLDER" />
+  </Package>
+
+  <Fragment>
+    <StandardDirectory Id="ProgramFilesFolder">
+      <Directory Id="INSTALLFOLDER" Name="Stock Tracking App" />
+    </StandardDirectory>
+
+    <StandardDirectory Id="ProgramMenuFolder" />
+  </Fragment>
+
+  <Fragment>
+    <ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+      <Files Include="publish\**">
+        <Exclude Files="publish\**\*.pdb" />
+        <Exclude Files="publish\StockApp.exe" />
+      </Files>
+    </ComponentGroup>
+  </Fragment>
+
+  <Fragment>
+    <Component Id="StockAppExeComponent" Directory="INSTALLFOLDER">
+      <File Id="StockAppExe" Source="publish\StockApp.exe" KeyPath="yes">
+        <Shortcut
+            Id="StartMenuShortcut"
+            Directory="ProgramMenuFolder"
+            Name="Stock Tracking App"
+            Description="Stock Tracking App"
+            Icon="StockAppIcon"
+            WorkingDirectory="INSTALLFOLDER"
+            Advertise="yes" />
+      </File>
+    </Component>
+  </Fragment>
+</Wix>

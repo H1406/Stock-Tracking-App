@@ -22,4 +22,19 @@
     <PackageReference Include="SplashKit" Version="1.2.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="native\win64\*.dll">
+      <Link>%(Filename)%(Extension)</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="images\**\*;Historical Prices\**\*;Data\**\*;invalid.mp3;wallet.txt;Eula.rtf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

@@ -1,18 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "qtHYlcI/7xQ=",
+  "dgSpecHash": "fgfZQpfsKxI=",
   "success": true,
-  "projectFilePath": "/Users/phanhieu/COS20007/CustomProgram/StockApp/StockApp.csproj",
+  "projectFilePath": "/mnt/d/Stock-Tracking-App/StockApp.csproj",
   "expectedPackageFiles": [
-    "/Users/phanhieu/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
-    "/Users/phanhieu/.nuget/packages/microsoft.data.sqlite/9.0.2/microsoft.data.sqlite.9.0.2.nupkg.sha512",
-    "/Users/phanhieu/.nuget/packages/microsoft.data.sqlite.core/9.0.2/microsoft.data.sqlite.core.9.0.2.nupkg.sha512",
-    "/Users/phanhieu/.nuget/packages/splashkit/1.2.1/splashkit.1.2.1.nupkg.sha512",
-    "/Users/phanhieu/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.10/sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
-    "/Users/phanhieu/.nuget/packages/sqlitepclraw.core/2.1.10/sqlitepclraw.core.2.1.10.nupkg.sha512",
-    "/Users/phanhieu/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.10/sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
-    "/Users/phanhieu/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.10/sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
-    "/Users/phanhieu/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/home/hiro/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
+    "/home/hiro/.nuget/packages/microsoft.data.sqlite/9.0.2/microsoft.data.sqlite.9.0.2.nupkg.sha512",
+    "/home/hiro/.nuget/packages/microsoft.data.sqlite.core/9.0.2/microsoft.data.sqlite.core.9.0.2.nupkg.sha512",
+    "/home/hiro/.nuget/packages/splashkit/1.2.1/splashkit.1.2.1.nupkg.sha512",
+    "/home/hiro/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.10/sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "/home/hiro/.nuget/packages/sqlitepclraw.core/2.1.10/sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "/home/hiro/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.10/sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "/home/hiro/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.10/sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "/home/hiro/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/hiro/.nuget/packages/microsoft.netcore.app.ref/9.0.20/microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "/home/hiro/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.20/microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512",
+    "/home/hiro/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.20/microsoft.netcore.app.host.linux-x64.9.0.20.nupkg.sha512"
   ],
   "logs": []
 }

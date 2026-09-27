@@ -1,0 +1,87 @@
+D:\Stock-Tracking-App\publish\StockApp.exe
+D:\Stock-Tracking-App\publish\Data\StockData.db
+D:\Stock-Tracking-App\publish\Eula.rtf
+D:\Stock-Tracking-App\publish\Historical Prices\AAPL.csv
+D:\Stock-Tracking-App\publish\Historical Prices\AMD.csv
+D:\Stock-Tracking-App\publish\Historical Prices\AMZN.csv
+D:\Stock-Tracking-App\publish\Historical Prices\EBAY.csv
+D:\Stock-Tracking-App\publish\Historical Prices\GOOG.csv
+D:\Stock-Tracking-App\publish\Historical Prices\INTC.csv
+D:\Stock-Tracking-App\publish\Historical Prices\META.csv
+D:\Stock-Tracking-App\publish\Historical Prices\MSFT.csv
+D:\Stock-Tracking-App\publish\Historical Prices\NVDA.csv
+D:\Stock-Tracking-App\publish\Historical Prices\TSLA.csv
+D:\Stock-Tracking-App\publish\images\add.png
+D:\Stock-Tracking-App\publish\images\delete.png
+D:\Stock-Tracking-App\publish\images\follow.png
+D:\Stock-Tracking-App\publish\images\home.png
+D:\Stock-Tracking-App\publish\images\wallet.png
+D:\Stock-Tracking-App\publish\invalid.mp3
+D:\Stock-Tracking-App\publish\libaom.dll
+D:\Stock-Tracking-App\publish\libavif-16.dll
+D:\Stock-Tracking-App\publish\libbrotlicommon.dll
+D:\Stock-Tracking-App\publish\libbrotlidec.dll
+D:\Stock-Tracking-App\publish\libbrotlienc.dll
+D:\Stock-Tracking-App\publish\libbz2-1.dll
+D:\Stock-Tracking-App\publish\libcivetweb.dll
+D:\Stock-Tracking-App\publish\libcrypto-3-x64.dll
+D:\Stock-Tracking-App\publish\libcurl-4.dll
+D:\Stock-Tracking-App\publish\libdav1d-7.dll
+D:\Stock-Tracking-App\publish\libdeflate.dll
+D:\Stock-Tracking-App\publish\libfreetype-6.dll
+D:\Stock-Tracking-App\publish\libgcc_s_seh-1.dll
+D:\Stock-Tracking-App\publish\libglib-2.0-0.dll
+D:\Stock-Tracking-App\publish\libgraphite2.dll
+D:\Stock-Tracking-App\publish\libharfbuzz-0.dll
+D:\Stock-Tracking-App\publish\libhwy.dll
+D:\Stock-Tracking-App\publish\libiconv-2.dll
+D:\Stock-Tracking-App\publish\libidn2-0.dll
+D:\Stock-Tracking-App\publish\libintl-8.dll
+D:\Stock-Tracking-App\publish\libjbig-0.dll
+D:\Stock-Tracking-App\publish\libjpeg-8.dll
+D:\Stock-Tracking-App\publish\libjxl.dll
+D:\Stock-Tracking-App\publish\libjxl_cms.dll
+D:\Stock-Tracking-App\publish\liblcms2-2.dll
+D:\Stock-Tracking-App\publish\libLerc.dll
+D:\Stock-Tracking-App\publish\liblzma-5.dll
+D:\Stock-Tracking-App\publish\libmpg123-0.dll
+D:\Stock-Tracking-App\publish\libnghttp2-14.dll
+D:\Stock-Tracking-App\publish\libogg-0.dll
+D:\Stock-Tracking-App\publish\libopus-0.dll
+D:\Stock-Tracking-App\publish\libopusfile-0.dll
+D:\Stock-Tracking-App\publish\libpcre2-8-0.dll
+D:\Stock-Tracking-App\publish\libpng16-16.dll
+D:\Stock-Tracking-App\publish\libpsl-5.dll
+D:\Stock-Tracking-App\publish\libSDL2_gfx-1-0-0.dll
+D:\Stock-Tracking-App\publish\libsharpyuv-0.dll
+D:\Stock-Tracking-App\publish\libssh2-1.dll
+D:\Stock-Tracking-App\publish\libssl-3-x64.dll
+D:\Stock-Tracking-App\publish\libstdc++-6.dll
+D:\Stock-Tracking-App\publish\libSvtAv1Enc.dll
+D:\Stock-Tracking-App\publish\libtiff-6.dll
+D:\Stock-Tracking-App\publish\libunistring-5.dll
+D:\Stock-Tracking-App\publish\libwebp-7.dll
+D:\Stock-Tracking-App\publish\libwebpdemux-2.dll
+D:\Stock-Tracking-App\publish\libwinpthread-1.dll
+D:\Stock-Tracking-App\publish\libyuv.dll
+D:\Stock-Tracking-App\publish\libzstd.dll
+D:\Stock-Tracking-App\publish\rav1e.dll
+D:\Stock-Tracking-App\publish\SDL2.dll
+D:\Stock-Tracking-App\publish\SDL2_image.dll
+D:\Stock-Tracking-App\publish\SDL2_mixer.dll
+D:\Stock-Tracking-App\publish\SDL2_net.dll
+D:\Stock-Tracking-App\publish\SDL2_ttf.dll
+D:\Stock-Tracking-App\publish\SplashKit.dll
+D:\Stock-Tracking-App\publish\zlib1.dll
+D:\Stock-Tracking-App\publish\wallet.txt
+D:\Stock-Tracking-App\publish\StockApp.dll
+D:\Stock-Tracking-App\publish\StockApp.deps.json
+D:\Stock-Tracking-App\publish\StockApp.runtimeconfig.json
+D:\Stock-Tracking-App\publish\StockApp.pdb
+D:\Stock-Tracking-App\publish\CsvHelper.dll
+D:\Stock-Tracking-App\publish\Microsoft.Data.Sqlite.dll
+D:\Stock-Tracking-App\publish\SplashKitSDK.dll
+D:\Stock-Tracking-App\publish\SQLitePCLRaw.batteries_v2.dll
+D:\Stock-Tracking-App\publish\SQLitePCLRaw.core.dll
+D:\Stock-Tracking-App\publish\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Stock-Tracking-App\publish\e_sqlite3.dll

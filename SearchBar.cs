@@ -16,15 +16,16 @@ public class SearchBar:Item{
 
     public override void Draw()
     {
+        FontLoader.EnsureLoaded();
         DrawRectangle(ColorBlack(), X, Y, Width, Height);
         FillRectangle(ColorWhite(), X+1, Y+1, Width-2, Height-2);
-        DrawText(_searchTerm,ColorBlack(),"arial",20, X+5, Y+5);
+        DrawText(_searchTerm,ColorBlack(),"Arial",20, X+5, Y+5);
         if (_isActivate){
             HandleUserInput();
         }
     }
     public void HandleUserInput(){
-        LoadFont("input","arial.ttf");
+        FontLoader.EnsureLoaded();
         if (_isActivate){
             if(!ReadingText()){
                 StartReadingText(rect);
